@@ -13,3 +13,7 @@ reader := bufio.NewReader(os.Stdin)
 writer := bufio.NewWriter(os.Stdout)
 ```
 
+### KMP算法
+
+又是看不懂的一天，又是折磨的一天。。。
+
