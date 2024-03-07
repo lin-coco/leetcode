@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 func swapPairs(head *ListNode) *ListNode {
 	newHead := &ListNode{Next: head}

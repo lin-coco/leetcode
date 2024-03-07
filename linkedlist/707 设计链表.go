@@ -1,4 +1,4 @@
-package linkedList
+package linkedlist
 
 type MyLinkedList struct {
 	Head *Node
