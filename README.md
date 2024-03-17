@@ -10,3 +10,4 @@
 4. [字符串](./string/README.md)
 5. [栈与队列](./stackqueue/README.md)
 6. [二叉树](./binarytree/README.md)
+7. [回溯算法](./backtrack/README.md)
